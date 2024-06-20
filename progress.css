@@ -1,0 +1,38 @@
+.skill{
+    width: 100%;
+    height: 500px;
+    background-color: #fff;
+}
+.sub-tittle{
+    color: #144663;
+    text-align: center;
+}
+.sub-tittle span{
+    color: #C3CEDE;
+}
+/* skill section */
+.progress {
+    width: 100%;
+    height: 8px !important;
+    background-color: rgb(104, 104, 104) !important;
+
+
+}
+
+.progress-bar {
+    width: 0%;
+    position: relative;
+    height: 100%;
+    background-color:#C3CEDE !important;
+    transition: 1s all !important;
+    opacity: 1 !important;
+}
+
+.hp {
+    transition: 1s all !important;
+    opacity: 0 !important;
+    width: 0 !important;
+}
+h6, p{
+    color: #144663 !important;
+}
